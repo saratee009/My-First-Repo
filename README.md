@@ -1,3 +1,1 @@
 # My-First-Repo
-
-hi
